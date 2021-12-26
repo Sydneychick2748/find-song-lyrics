@@ -2,15 +2,9 @@ body {
   background-color: grey;
 
   background-image: url("../img/music-notes.jpeg");
-  /* background-repeat: no-repeat; */
-  /* background-size: cover; */
-
-  /* width: 400px;
-  height: 534px;
-  max-width: 100%; */
 
   background-blend-mode: screen;
-  /* */
+
   background-color: lightskyblue;
   background-size: cover;
 
@@ -38,18 +32,6 @@ h1 {
   max-width: 100%;
   border: 5px;
   border-style: double;
-  /* /* padding: 1px;
-    border: 1px solid white; */
-  /* position: relative;
-  left: 400px;
-  top: 450px;
-  position: relative;
-  align-items: center;
-  left: 450px;
-  top: 400px;
-  font-size: 30px;
-  color: blueviolet;
-  font-weight: bold; */
 }
 #song-name {
   border: 3px double black;
